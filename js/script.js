@@ -34,3 +34,5 @@ btnLowCase.addEventListener("click", function () {
 
     }
 })
+
+//сортировка по имени задачи по алфавиту
